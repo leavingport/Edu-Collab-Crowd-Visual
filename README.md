@@ -40,6 +40,8 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 |------------|-----|-----|----|----|
 | 2024-08-28 | 在校全员 | 2024-2025上半 新学期规划 | [PPT链接](资金不足，演员未定，剧本暂无) | [视频链接](https://www.bilibili.com) |
 | 2024-09-09 | 罗巨鹏 | 论文分享：超图推荐系统 | [超图推荐](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240909-%E7%BD%97%E5%B7%A8%E9%B9%8F-%E8%B6%85%E5%9B%BE%E6%8E%A8%E8%8D%90-%E6%97%A0%E8%A7%86%E9%A2%91.pptx) | [https://www.bilibili.com](https://www.bilibili.com/video/BV1bm41117XN/?spm_id_from=333.788&vd_source=9da68956319d1d510dbd7f2f068360c1)  |
+| 2024-09-09 | 摆冬冬 | 论文分享：Binary Opacity Grids | | |
+
 
 ## 候选题目
 
